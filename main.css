@@ -1,0 +1,46 @@
+h1 {
+  color: #e8efff;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+}
+
+h2 {
+  color: #e8efff;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+}
+
+h3 {
+  color: #e8efff;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+}
+
+p {
+  color: #f6ffe0;
+  font-size: 14px;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+}
+
+ul {
+  color: #f6ffe0;
+  font-size: 14px;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+}
+
+li {
+  padding-bottom: 4px;
+}
+
+a {
+  color: #bdd684;
+  font-size: 14px;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+}
+
+body {
+  background-color: #10222b;
+}
+
+.content {
+  float: center;
+}
