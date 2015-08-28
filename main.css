@@ -36,12 +36,22 @@
   padding-bottom: 4px;
 }
 
+.container li ul li {
+  padding-top: 4px;
+}
+
 .container a {
   color: #bdd684;
   font-size: 16px;
   text-transform: uppercase;
   text-decoration: none;
 }
+
+/*.container table {
+  color: #f6ffe0;
+  font-size: 16px;
+  width: 100%;
+}*/
 
 body {
   background-color: #10222b;
