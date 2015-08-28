@@ -1,21 +1,22 @@
-.navi .container a {
+.container .nav a {
   color: #95ab63;
-  font-size: 12px;
+  font-size: 13px;
 }
 
-.navi .container li {
+.container .nav li {
   color: #95ab63;
   font-weight: bold;
-  padding: 14px;
   text-transform: uppercase;
-  display: inline;
-  float: right;
+}
+
+.container .nav {
+  padding-top: 20px;
 }
 
 .container {
-  width: 40%;
-  margin-left: 30%;
-  float: center;
+/*  width: 50%;
+  margin-left: 25%;
+  float: center;*/
   color: #e2f0d6;
   font-family: "Roboto", Helvetica, Arial, sans-serif;
   text-align: justify;
@@ -44,4 +45,13 @@
 
 body {
   background-color: #10222b;
+}
+
+.page-header {
+  margin-top: -30px;
+}
+
+.nav > li > a:hover,
+.nav > li > a:focus {
+  background-color: #f6ffe0;
 }
